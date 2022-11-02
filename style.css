@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box; }
+  
+  body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    position: relative;
+    background: -webkit-linear-gradient(35deg, #f46464, #fafe01);
+    background: -o-linear-gradient(35deg, #f46464, #ecf807);
+    background: linear-gradient(35deg, #f46464, #e5ff00); }
+  
+
+
+    
